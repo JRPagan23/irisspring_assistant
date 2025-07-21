@@ -1,6 +1,8 @@
 # IrisSpring Cybersecurity Assistant
 
-[![Buy on Gumroad](https://img.shields.io/badge/Gumroad-Buy%20Now-blueviolet?logo=gumroad&style=for-the-badge)](https://gumroad.com/l/irisspring)
+[![Buy Now](https://img.shields.io/badge/Buy%20Now-Gumroad-orange)](https://realjrodriguezp.gumroad.com/l/hjtkbc)
+
+Or click here: [Buy Now on Gumroad](https://realjrodriguezp.gumroad.com/l/hjtkbc)
 
 IrisSpring Cybersecurity Assistant is a sleek, blue-themed Flask web app that scans a company’s network and system security posture, provides detailed reports, and can optionally apply automatic fixes for common cybersecurity issues.
 
